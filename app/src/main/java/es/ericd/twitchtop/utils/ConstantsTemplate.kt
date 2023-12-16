@@ -4,7 +4,7 @@ class ConstantsTemplate {
     companion object {
         val CLIENT_ID = ""
         val CLIENT_SECRET = ""
-        val GRANT_TYPE = ""
+        val GRANT_TYPE = "client_credentials"
 
         val BASE_ID_URL = "https://id.twitch.tv/"
         val BASE_API_URL = "https://api.twitch.tv/"
